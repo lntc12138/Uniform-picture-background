@@ -19,8 +19,10 @@ If you encounter any problems during the use, please contact me by email or wech
 
 如果在使用过程中遇到了问题可以随时通过邮件或者微信联系我
 
-Email1：liunian12138@whu.edu.cn
+Email1: liunian12138@whu.edu.cn
 
-Email2:12125106@zju.edu.cn
+Email2: 12125106@zju.edu.cn
 
-Wechat:![替代文本](https://github.com/lntc12138/Uniform-picture-background/blob/main/Wechat.jpg)
+Wechat:
+
+![替代文本](https://github.com/lntc12138/Uniform-picture-background/blob/main/Wechat.jpg)

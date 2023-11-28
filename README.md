@@ -10,9 +10,9 @@ Step 2: Open the Uniform-picture-background-github.ijm file with imageJ, modify 
 
 第二步：用imageJ打开Uniform-picture-background-github.ijm文件，并按照提示修改文件夹路径，运行程序
 
-Step 3: Open the lab2rgb-github file with python, modify the folder path according to the prompts, and run the program
+Step 3: Open the lab2rgb-github.py file with python, modify the folder path according to the prompts, and run the program
 
-第三步：用python打开lab2rgb-github文件，并按照提示修改文件夹路径，运行程序
+第三步：用python打开lab2rgb-github.py文件，并按照提示修改文件夹路径，运行程序
 
 # How to contact me
 If you encounter any problems during the use, please contact me by email or wechat at any time

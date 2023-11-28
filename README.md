@@ -23,4 +23,4 @@ Email1：liunian12138@whu.edu.cn
 
 Email2:12125106@zju.edu.cn
 
-Wechat:
+Wechat:![替代文本](https://github.com/lntc12138/Uniform-picture-background/blob/main/Wechat.jpg)
